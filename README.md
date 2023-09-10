@@ -3,9 +3,9 @@
 Brick Breaker
 
 ## Introduction
-This project is writeen using c++ and uses a free library in C++ called Cinder.
+This project is written using c++ and uses a free library in C++ called Cinder.
 Welcome to Brick Breaker!
-This is the orignial Birck Breaker game. There is a ball on a paddle. You have to break bricks as the ball collides against the paddle. At the beginning, you choose an angle from
+This is an attempt to re create the orignial Birck Breaker game. There is a ball on a paddle. You have to break bricks as the ball collides against the paddle. At the beginning, you choose an angle from
 1 to 5 (1 being the leftmost and 5 being the rightmost). The ball once release, should be kept in the game window by moving the paddle.
 There are 4 power ups at different location:
 1) the blue power up : increases the speed of the ball.
